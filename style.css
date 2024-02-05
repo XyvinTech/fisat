@@ -1,0 +1,16 @@
+.name{
+    background-color: black;
+    color:blue;
+    margin: 100px;
+}
+
+#name{
+    color: green;
+}
+
+.parent{
+    display: flex;
+    justify-content:space-evenly;
+    
+    height: 700px;
+}
